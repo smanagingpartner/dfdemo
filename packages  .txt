@@ -1,0 +1,5 @@
+lottie.useWebWorker = setWebWorker;
+  lottie.setIDPrefix = setPrefix;
+  lottie.__getFactory = getFactory;
+  lottie.version = '5.9.2';
+  lottie.version = '5.9.3';
